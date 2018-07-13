@@ -25,4 +25,4 @@ return coins
 
 end
 
-puts least_coins(78)
+puts least_coins(1234567890)
